@@ -10,6 +10,8 @@
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/794de9e9-3fef-491e-b66d-93ad425cf88b)
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/c30ae473-5884-44e5-8272-d9dfb5bd8376)
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/e3cc8e23-6117-4718-a378-bd31e3773733)
+![image](https://github.com/user-attachments/assets/207d63f1-7f3c-4fb1-92f1-36b1571b14ae)
+
 
 ### Html Css Js
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/c9694b9e-b19a-411d-9116-5dbe1d5eeb40)
