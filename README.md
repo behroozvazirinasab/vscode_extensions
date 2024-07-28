@@ -26,6 +26,8 @@
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/b1b8ca37-f5a3-49c9-964b-a86a75353762)
 ![image](https://github.com/user-attachments/assets/355daae2-3977-4ce1-a661-14c138ccac3d)
 
+![image](https://github.com/user-attachments/assets/96fe1b28-7c65-4df7-a9fb-5c352d62a7b3)
+
 
 ### Angular
 ![image](https://github.com/behroozvazirinasab/vscode_config/assets/100210831/b4d7fdc8-ce87-4457-97af-49d8f13d68eb)
